@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/kunalp925/temperature.svg?branch=master)](https://travis-ci.org/kunalp925/temperature)
